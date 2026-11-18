@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,,United States,September 25, 2021,2020,PG-13,90 min,Documentaries
+s2,TV Show,Blood & Water,,Ama Qamata; Khosi Ngema,South Africa,September 24, 2021,2021,TV-MA,2 Seasons,International TV Shows; TV Dramas
+s3,TV Show,Ganglands,Julien Leclercq,Sami Bouajila,France,September 24, 2021,2021,TV-MA,1 Season,Crime TV Shows; International TV Shows
+s4,Movie,The Starling,Theodore Melfi,Melissa McCarthy,United States,September 24, 2021,2021,PG-13,104 min,Comedies; Dramas
+s5,Movie,Sankofa,Haile Gerima,Kofi Ghanaba,United States,September 24, 2021,1993,TV-MA,125 min,Dramas; Independent Movies
+s6,TV Show,The Great British Baking Show,Andy Devonshire,Mel Giedroyc,United Kingdom,September 24, 2021,2021,TV-14,9 Seasons,British TV Shows; Reality TV
+s7,Movie,Je Suis Karl,Christian Schwochow,Luna Wedler,Germany,September 23, 2021,2021,TV-MA,127 min,Dramas; International Movies
+s8,Movie,Laskar Pelangi,Riri Riza,Cut Mini,Indonesia,January 10, 2021,2008,TV-PG,124 min,Dramas; International Movies
+s9,TV Show,Stranger Things,The Duffer Brothers,Winona Ryder,United States,July 15, 2019,2019,TV-14,3 Seasons,Sci-Fi & Fantasy; TV Dramas
+s10,Movie,Habibie & Ainun,Faozan Rizal,Reza Rahadian,Indonesia,March 12, 2021,2012,TV-PG,118 min,Dramas; Romantic Movies
